@@ -6,4 +6,4 @@ My research interest includes Computer Vision and Machine Learning, in particula
 
 ### Publication
 
-Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. [pdf](https://sandbox3aster.github.io/ijcai17_camera_ready.pdf).
+Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017 [[pdf]](https://sandbox3aster.github.io/ijcai17_camera_ready.pdf).
