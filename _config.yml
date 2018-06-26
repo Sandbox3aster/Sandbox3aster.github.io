@@ -1,8 +1,2 @@
-title: Junru Wu
-description: 
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
-
-gems:
-  - jekyll-mentions
+theme: jekyll-theme-cayman
+title: Junru Wu's homepage.
