@@ -11,7 +11,8 @@ I'm a Ph.D Student in Computer Science at Texas A&M University, my advisor is [P
 
 ### Research Interests
 
-My research interests lie in deep learning and computer vision, specifically in compression of CNN to enable deployment on resource-constrained mobile devices. I'm also interested in high-level vision task such as saliency detection, or low-level vision task such as image denoising, dehazing or deblurring, low quality image restoration in general.
+My research interests lie in deep learning and computer vision, specifically in compression of CNN to enable deployment on resource-constrained mobile devices. 
+I'm also worked on high-level vision task such as saliency detection, or low-level vision task such as image denoising, dehazing, deblurring, super-resolution, low quality image restoration in general.
 
 ### Publication
 
