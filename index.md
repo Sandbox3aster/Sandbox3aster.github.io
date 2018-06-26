@@ -1,7 +1,8 @@
 ### Brief Biography
 
+I'm a Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). Prior to that, I was a research assistant at [Visual Computing Lab](http://vcl.shanghaitech.edu.cn/), Shangaitech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University.
 
-I'm a Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). Prior to that, I was a research assistant at [Visual Computing Lab](http://vcl.shanghaitech.edu.cn/), Shangaitech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my my B. Eng degree from Tongji University.
+### Research Interests
 
 My research interests lie in deep learning and computer vision, specifically in compression of CNN to enable deployment on resource-constrained mobile devices. I'm also interested in high-level vision task such as saliency detection, or low-level vision task such as image denoising, dehazing or deblurring, low quality image restoration in general.
 
