@@ -7,7 +7,7 @@ Department of CSE, Texas A&M University
 
 ### Brief Biography
 
-I'm a Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). Prior to that, I was a research assistant at [Visual Computing Lab](http://vcl.shanghaitech.edu.cn/), Shangaitech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University.
+I'm a Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). Prior to that, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShangaiTech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai.
 
 ### Research Interests
 
