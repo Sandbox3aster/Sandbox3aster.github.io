@@ -1,6 +1,6 @@
 # Junru Wu
 
-## Ph.D Student
+## Ph.D. Student
 Department of CSE, Texas A&M University  
 **sandboxmaster@tamu.edu**
 
