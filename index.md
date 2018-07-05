@@ -17,7 +17,7 @@ I also work on high-level vision task such as saliency detection, low-level visi
 
 ### Publication
 
-**Junru Wu**, Yue Wang, Zhenyu Wu, Zhangyang Wang, Ashok Veeraraghavan and Yingyan Lin. "Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions" International Conference on Machine Learning (ICML), 2018. [[PDF]](https://128.84.21.199/pdf/1806.09228.pdf) [[Github]](https://github.com/Sandbox3aster/Deep-K-Means)
+**Junru Wu**, Yue Wang, Zhenyu Wu, Zhangyang Wang, Ashok Veeraraghavan and Yingyan Lin. "Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions" International Conference on Machine Learning (ICML), 2018. [[PDF]](https://arxiv.org/pdf/1806.09228.pdf) [[Github]](https://github.com/Sandbox3aster/Deep-K-Means)
 
 Yanyu Xu, Yanbing Dong, **Junru Wu**, Zhengzhong Sun, Zhiru Shi, Jingyi Yu, and Shenghua Gao. "Gaze Prediction in Dynamic 360◦ Immersive Videos" IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Gaze_Prediction_in_CVPR_2018_paper.pdf) [[Github]](https://github.com/xuyanyu-shh/VR-EyeTracking)
 
