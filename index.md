@@ -24,7 +24,7 @@ I also work on high-level vision task such as saliency detection, low-level visi
 
 Yanyu Xu, Yanbing Dong, **Junru Wu**, Zhengzhong Sun, Zhiru Shi, Jingyi Yu, and Shenghua Gao. "Gaze Prediction in Dynamic 360◦ Immersive Videos" IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Gaze_Prediction_in_CVPR_2018_paper.pdf) [[Github]](https://github.com/xuyanyu-shh/VR-EyeTracking)
 
-Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. (Best Student Paper Finalist) (https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
+Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. (Best Student Paper Finalist) [[PDF]](https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
 
-Yanyu Xu<sup>*</sup>, Shenghua Gao<sup>*</sup>, **Junru Wu<sup>*</sup>**, Nianyi Li and Jingyi Yu, "Beyond Universal Saliency: Personalized Saliency and its Prediction", to be appear on IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).[[PDF]](https://arxiv.org/pdf/1710.03011.pdf) <sup>*</sup>Equal contributions
+Yanyu Xu<sup>*</sup>, Shenghua Gao<sup>*</sup>, **Junru Wu<sup>*</sup>**, Nianyi Li and Jingyi Yu, "Beyond Universal Saliency: Personalized Saliency and its Prediction", to be appear on IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [[PDF]](https://arxiv.org/pdf/1710.03011.pdf) <sup>*</sup>Equal contributions
 
