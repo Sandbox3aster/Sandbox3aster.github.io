@@ -8,7 +8,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a first year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). I worked closely with Dr. Xiang Yu and Dr. Manmohan Chandraker at NEC Lab.
+I'm a first year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). I also worked closely with Dr. Xiang Yu and Dr. Manmohan Chandraker at NEC Lab.
 
 From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
