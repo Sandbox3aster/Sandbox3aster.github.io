@@ -3,6 +3,7 @@
 ## Ph.D. Student
 Dept. of Computer Science & Enigneering, Texas A&M University  
 **sandboxmaster@tamu.edu**
+[[CV]](https://www.dropbox.com/s/9dtch37uh4mco40/Junru_Wu_Resume.pdf?raw=1)
 
 
 ### Brief Biography
@@ -24,6 +25,4 @@ Yanyu Xu, Yanbing Dong, **Junru Wu**, Zhengzhong Sun, Zhiru Shi, Jingyi Yu, and 
 Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. (Best Student Paper Finalist) (https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
 
 Yanyu Xu<sup></sup>*, Shenghua Gao<sup></sup>*, **Junru Wu<sup></sup>***, Nianyi Li and Jingyi Yu, "Beyond Universal Saliency: Personalized Saliency and its Prediction", to be appear on IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).[[PDF]](https://arxiv.org/pdf/1710.03011.pdf) <sup></sup>*Equal contributions
-
-
 
