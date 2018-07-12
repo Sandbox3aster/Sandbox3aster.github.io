@@ -8,7 +8,9 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a first year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016. I was a exchange student at Technische Universität Darmstadt in 2014.
+I'm a first year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Prof. Zhangyang Wang](http://www.atlaswang.com/). I worked closely with Dr. Xiang Yu and Dr. Manmohan Chandraker at NEC Lab.
+
+From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University, under the supervision of [Prof. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
 ### Research Interests
 
@@ -24,5 +26,5 @@ Yanyu Xu, Yanbing Dong, **Junru Wu**, Zhengzhong Sun, Zhiru Shi, Jingyi Yu, and 
 
 Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. (Best Student Paper Finalist) (https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
 
-Yanyu Xu<sup></sup>*, Shenghua Gao<sup></sup>*, **Junru Wu<sup></sup>***, Nianyi Li and Jingyi Yu, "Beyond Universal Saliency: Personalized Saliency and its Prediction", to be appear on IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).[[PDF]](https://arxiv.org/pdf/1710.03011.pdf) <sup></sup>*Equal contributions
+Yanyu Xu<sup>*</sup>, Shenghua Gao<sup>*</sup>, **Junru Wu<sup>*</sup>**, Nianyi Li and Jingyi Yu, "Beyond Universal Saliency: Personalized Saliency and its Prediction", to be appear on IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).[[PDF]](https://arxiv.org/pdf/1710.03011.pdf) <sup>*</sup>Equal contributions
 
