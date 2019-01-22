@@ -1,4 +1,4 @@
-# Junru Wu
+# Junru (Charles) Wu
 
 ## Ph.D. Student
 Dept. of Computer Science & Enigneering, Texas A&M University  
