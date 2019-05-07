@@ -8,7 +8,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a second year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). I also worked closely with [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) at NEC Labs America, San Jose, CA, [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) and [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/) at ByteDance AI Lab, Palo Alto, CA.
+I'm a ~~second~~ third year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). I also worked closely with [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) at NEC Labs America, San Jose, CA, [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) and [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/) at ByteDance AI Lab, Palo Alto, CA.
 
 From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University, under the supervision of [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
