@@ -8,7 +8,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a ~~second~~ third year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). I also worked closely with [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) at NEC Labs America, San Jose, CA, [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) and [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/) at ByteDance AI Lab, Palo Alto, CA.
+I'm a second year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). I also worked closely with [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) at NEC Labs America, San Jose, CA, [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) and [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/) at ByteDance AI Lab, Palo Alto, CA.
 
 From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University, under the supervision of [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
@@ -19,6 +19,12 @@ My research interests lie in deep learning and computer vision, specifically in 
 I also work on high-level vision task such as saliency detection, low-level vision task such as image denoising, dehazing, deblurring, super-resolution, low quality image restoration in general.
 
 ### Publication
+
+Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019. [[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Github]](https://github.com/TAMU-VITA/DeblurGANv2)
+
+Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Arxiv Preprint. [[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Github]](https://github.com/TAMU-VITA/USAID)
+
+Rosaura G. VidalMata*, ..., **Junru Wu**, ..., Walter J. Scheirer. "Bridging the gap between computational photography and visual recognition" Arxiv Preprint. [[PDF]](https://arxiv.org/pdf/1901.09482.pdf) [[Github]](https://github.com/TAMU-VITA/TAMU-PKU-UG2)
 
 **Junru Wu**, Yue Wang, Zhenyu Wu, Zhangyang Wang, Ashok Veeraraghavan and Yingyan Lin. "Deep *k*-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions" International Conference on Machine Learning (ICML), 2018. [[PDF]](https://arxiv.org/pdf/1806.09228.pdf) [[Github]](https://github.com/Sandbox3aster/Deep-K-Means)
 
