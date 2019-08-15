@@ -3,7 +3,7 @@
 ## Ph.D. Student
 Dept. of Computer Science & Enigneering, Texas A&M University  
 **sandboxmaster@tamu.edu**
-[[CV]](https://www.dropbox.com/s/d7gyo5vdtvs8enj/resume.pdf?raw=1)
+[[Google Scholar]](https://scholar.google.com/citations?user=nBbGvyEAAAAJ&hl=en)[[Linkedln]](https://www.linkedin.com/in/junru-wu/)[[CV]](https://www.dropbox.com/s/d7gyo5vdtvs8enj/resume.pdf?raw=1)
 
 
 ### Brief Biography
