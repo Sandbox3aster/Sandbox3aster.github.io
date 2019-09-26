@@ -1,6 +1,6 @@
 # Junru (Charles) Wu
-[[ junru_wu.png | height = 100px ]]
-<img src="junru_wu.png" width="200">
+
+<img src="junru_wu.png" align="left" width="200">
 
 ## Ph.D. Student
 Dept. of Computer Science & Enigneering, Texas A&M University
