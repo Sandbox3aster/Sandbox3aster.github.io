@@ -1,5 +1,5 @@
 # Junru (Charles) Wu
-![](junru_wu.png =100x80)
+[[ junru_wu.png | height = 100px ]]
 <img src="junru_wu.png" width="200">
 
 ## Ph.D. Student
