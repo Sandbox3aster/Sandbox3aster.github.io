@@ -1,5 +1,7 @@
 # Junru (Charles) Wu
 
+![](junru_wu.png)
+
 ## Ph.D. Student
 Dept. of Computer Science & Enigneering, Texas A&M University
 
