@@ -20,12 +20,12 @@ From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://s
 
 ### Work Experience
 
-NEC Labs America, Research Intern                  May 2019 - Aug 2019
-Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) 
+NEC Labs America, Research Intern                  May 2019 - Aug 2019  
+Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/)  
 Research on Dual-Attentional Video Deblurring
 
-ByteDance AI Lab, Research Intern      March 2019 - May 2019
-Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/)
+ByteDance AI Lab, Research Intern      March 2019 - May 2019  
+Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/)  
 Research on Video Human Segmentation on TikTok Videos
 
 ### Research Interests
