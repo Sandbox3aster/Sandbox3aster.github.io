@@ -12,13 +12,28 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a third year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). I have been fortunate enough to work with [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) at NEC Labs America, CA in Summer 2019 and [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en) and [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/) at ByteDance AI Lab, CA in Spring 2019.
+I'm a third year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). 
+
+I have been fortunate enough to work with [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) at NEC Labs America, CA in Summer 2019 and  and  at ByteDance AI Lab, CA in Spring 2019.
 
 From 2016 to 2017, I was a research assistant at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University, under the supervision of [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/). I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
+### Work Experience
+
+NEC Labs America, Research Intern                  May 2019 - Aug 2019
+Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/) 
+Research on Dual-Attentional Video Deblurring
+
+ByteDance AI Lab, Research Intern      March 2019 - May 2019
+Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/)
+Research on Video Human Segmentation on TikTok Videos
+
 ### Research Interests
 
-My research interests lie in deep learning and computer vision, specifically in compression of CNN to enable deployment on resource-constrained mobile devices.
+My research interests lie in computer vision and learning and computer , 
+(a) Neural Architecture Search for Videos
+(b) Fast & Accurate image/video deblurring
+(c) Neurl Newtwork Compression to enable deployment on resource-constrained mobile devices, 
 
 I also work on high-level vision task such as saliency detection, low-level vision task such as image denoising, dehazing, deblurring, super-resolution, low quality image restoration in general.
 
