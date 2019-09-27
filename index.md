@@ -13,7 +13,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 ### Brief Biography
 
 I'm a third year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/).  
-From 2016 - 2017, I was fortunate enough to work with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University.  
+From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University.  
 I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
 ### Work Experience
@@ -29,10 +29,10 @@ Research on Video Human Segmentation on TikTok Videos
 ### Research Interests
 
 My research interests lie in computer vision and machine learning, specifically in the following topics  
-(a) Neural Architecture Search for Videos  
+(a) Neural Architecture Search in Videos  
 (b) Fast & Accurate image/video deblurring, Denosing  
 (c) Neural Newtwork Compression  
-(d) Saliency Detecion on 360◦ Videos  
+(d) Saliency Detecion in 360◦ Videos  
 
 ### Publication
 
