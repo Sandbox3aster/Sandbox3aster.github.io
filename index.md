@@ -13,8 +13,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 ### Brief Biography
 
 I'm a third year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/).  
-From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University.  
-I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
+From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
 ### Work Experience
 
