@@ -27,14 +27,14 @@ Research on Video Human Segmentation on TikTok Videos
 ### Research Interests
 
 My research interests lie in computer vision and machine learning, specifically in the following topics  
-(a) Neural Architecture Search in Videos  
+(a) Neural Architecture Search
 (b) Fast & Accurate image/video deblurring, denosing  
 (c) Neural Newtwork Compression  
 (d) Saliency Detecion in 360◦ Videos  
 
 ### Publication
 
-**Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang Wan. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020.
+**Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020.
 
 Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019.
 [[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Github]](https://github.com/TAMU-VITA/DeblurGANv2)
