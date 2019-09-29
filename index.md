@@ -58,4 +58,4 @@ Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Univer
 [[PDF]](https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
 
 
-- Cartoon portrait credit to [Shuai Yang](https://williamyang1991.github.io/)
+*Cartoon portrait credit to [Shuai Yang](https://williamyang1991.github.io/)
