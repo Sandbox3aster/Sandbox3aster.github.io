@@ -20,7 +20,7 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers), [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/)  
 Research on Dual-Attentional Video Deblurring
 
-* ByteDance AI Lab, Research Intern                                                 Mar. 2019 - May. 2019  
+* ByteDance AI Lab, Research Intern                                                   Mar. 2019 - May. 2019  
 Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/)  
 Research on Video Human Segmentation on TikTok Videos
 
