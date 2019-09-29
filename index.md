@@ -17,7 +17,7 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 ### Work Experience
 
 * NEC Labs America, Research Intern                                                May. 2019 - Aug. 2019  
-Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers) and [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/)  
+Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers), [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/)  
 Research on Dual-Attentional Video Deblurring
 
 * ByteDance AI Lab, Research Intern                                                Mar. 2019 - May. 2019  
@@ -27,7 +27,7 @@ Research on Video Human Segmentation on TikTok Videos
 ### Research Interests
 
 My research interests lie in computer vision and machine learning, specifically in the following topics  
-(a) Neural Architecture Search
+(a) Neural Architecture Search  
 (b) Fast & Accurate image/video deblurring, denosing  
 (c) Neural Newtwork Compression  
 (d) Saliency Detecion in 360◦ Videos  
