@@ -18,8 +18,8 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 
 * NEC Labs America, Research Intern                                                May. 2019 - Aug. 2019  
 Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers), [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/)  
-(a) Research on Dual-Attentional Video Deblurring
-(a) Research on Face Anti-Spoofing
+(a) Research on Dual-Attentional Video Deblurring  
+(b) Research on Face Anti-Spoofing
 
 * ByteDance AI Lab, Research Intern                                                        Mar. 2019 - May. 2019  
 Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/)  
