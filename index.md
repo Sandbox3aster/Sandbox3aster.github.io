@@ -35,7 +35,7 @@ My research interests lie in computer vision and machine learning, specifically 
 
 ### Publication
 
-**Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020.
+**Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang  Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020. [[PDF]](https://arxiv.org/pdf/1912.03445.pdf)
 
 Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019.
 [[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Github]](https://github.com/TAMU-VITA/DeblurGANv2)
