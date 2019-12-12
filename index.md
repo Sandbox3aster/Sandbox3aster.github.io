@@ -1,4 +1,4 @@
-# Junru (Charles) Wu
+# Junru Wu
 
 <img src="junru_wu.png" align="left" width="200">
 
