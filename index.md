@@ -57,6 +57,7 @@ Yanyu Xu <sup>*</sup>, Shenghua Gao <sup>*</sup>, **Junru Wu<sup>*</sup>**, Nian
 
 Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. (**Best Student Paper Finalist**)
 [[PDF]](https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
+
 * Equal Contribution
 
 ** Cartoon portrait credit to [Shuai Yang](https://williamyang1991.github.io/)
