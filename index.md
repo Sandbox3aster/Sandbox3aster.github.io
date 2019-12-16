@@ -31,7 +31,7 @@ My research interests lie in computer vision and machine learning, specifically 
 (a) Neural Architecture Search  
 (b) Fast & Accurate image/video deblurring, denosing  
 (c) Neural Newtwork Compression  
-(d) Saliency Detecion in 360◦ Videos  
+(d) Saliency Detecion in VR, Personalized Saliency Detecion  
 
 ### Publication
 
