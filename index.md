@@ -28,9 +28,9 @@ Research on Video Human Segmentation on TikTok Videos
 ### Research Interests
 
 My research interests lie in computer vision and machine learning, specifically in the following topics  
-(a) Neural Architecture Search  
+(a) Efficient Neural Architecture Search  
 (b) Fast & Accurate image/video deblurring, denosing  
-(c) Neural Newtwork Compression  
+(c) Neural Newtwork Compression/Acceleration, Energy efficient Neural Networks  
 (d) Saliency Detecion in VR, Personalized Saliency Detecion  
 
 ### Publication
