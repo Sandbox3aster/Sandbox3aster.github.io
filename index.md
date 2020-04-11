@@ -27,7 +27,7 @@ Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers), [Dr. Manmo
 
 * ByteDance AI Lab, Research Intern                                                        Mar. 2019 - May. 2019  
 Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/)  
-(a) Research on Video Human Segmentation in TikTok Videos
+(a) Research on Video Human Segmentation
 
 ### Research Interests
 
