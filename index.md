@@ -17,7 +17,7 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 ### Work Experience
 
 * Microsoft Research, Research Intern                                                May. 2020 - Aug. 2020  
-Mentor: [Dr. Dongdong Chen](http://www.dongdongchen.bid/), [Dr. Xiyang Dai](https://sites.google.com/site/xiyangdai/) 
+Mentor: [Dr. Dongdong Chen](http://www.dongdongchen.bid/), [Dr. Xiyang Dai](https://sites.google.com/site/xiyangdai/)  
 (a) Research on Neural Architecture Search
 
 * NEC Labs America, Research Intern                                                May. 2019 - Aug. 2019  
