@@ -44,7 +44,7 @@ My research interests lie in computer vision and machine learning, specifically 
 Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019.
 [[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Github]](https://github.com/TAMU-VITA/DeblurGANv2)
 
-Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Submitted to TIP.
+Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Arxiv Preprint.
 [[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Github]](https://github.com/TAMU-VITA/USAID)
 
 Rosaura G. VidalMata*, ..., **Junru Wu**, ..., Walter J. Scheirer. "Bridging the gap between computational photography and visual recognition" IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
