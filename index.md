@@ -39,12 +39,15 @@ My research interests lie in computer vision and machine learning, specifically 
 
 ### Publication
 
+**Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
+Face Anti-spoofing" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
+
 **Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang  Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020. [[PDF]](https://arxiv.org/pdf/1912.03445.pdf)
 
 Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019.
 [[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Github]](https://github.com/TAMU-VITA/DeblurGANv2)
 
-Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Arxiv Preprint.
+Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Arxiv Preprint, 2019.
 [[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Github]](https://github.com/TAMU-VITA/USAID)
 
 Rosaura G. VidalMata*, ..., **Junru Wu**, ..., Walter J. Scheirer. "Bridging the gap between computational photography and visual recognition" IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
