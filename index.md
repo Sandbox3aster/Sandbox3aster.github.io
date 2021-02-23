@@ -39,34 +39,34 @@ My research interests lie in computer vision and machine learning, specifically 
 
 ### Preprints
 
-**Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Weak NAS Predictors Are All You Need" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Github]](https://github.com/VITA-Group/WeakNAS)
+**Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Weak NAS Predictors Are All You Need" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Code]](https://github.com/VITA-Group/WeakNAS)
 
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
-Face Anti-spoofing" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
+Face Anti-spoofing" Arxiv Preprint, 2020. [[Code]](https://arxiv.org/pdf/2011.14054.pdf)
 
 Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Arxiv Preprint, 2019.
-[[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Github]](https://github.com/TAMU-VITA/USAID)
+[[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Code]](https://github.com/TAMU-VITA/USAID)
 
 ### Publication
 
 **Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang  Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020. [[PDF]](https://arxiv.org/pdf/1912.03445.pdf)
 
 Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019.
-[[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Github]](https://github.com/TAMU-VITA/DeblurGANv2)
+[[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
 
 Rosaura G. VidalMata*, ..., **Junru Wu**, ..., Walter J. Scheirer. "Bridging the gap between computational photography and visual recognition" IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
-[[PDF]](https://arxiv.org/pdf/1901.09482.pdf) [[Github]](https://github.com/TAMU-VITA/TAMU-PKU-UG2)
+[[PDF]](https://arxiv.org/pdf/1901.09482.pdf) [[Code]](https://github.com/TAMU-VITA/TAMU-PKU-UG2)
 
 **Junru Wu**, Yue Wang, Zhenyu Wu, Zhangyang Wang, Ashok Veeraraghavan and Yingyan Lin. "Deep *k*-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions" International Conference on Machine Learning (ICML), 2018.
-[[PDF]](https://arxiv.org/pdf/1806.09228.pdf) [[Github]](https://github.com/Sandbox3aster/Deep-K-Means)
+[[PDF]](https://arxiv.org/pdf/1806.09228.pdf) [[Code]](https://github.com/Sandbox3aster/Deep-K-Means)
 
 Yanyu Xu, Yanbing Dong, **Junru Wu**, Zhengzhong Sun, Zhiru Shi, Jingyi Yu, and Shenghua Gao. "Gaze Prediction in Dynamic 360◦ Immersive Videos" IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018. 
-[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Gaze_Prediction_in_CVPR_2018_paper.pdf) [[Github]](https://github.com/xuyanyu-shh/VR-EyeTracking)
+[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Gaze_Prediction_in_CVPR_2018_paper.pdf) [[Code]](https://github.com/xuyanyu-shh/VR-EyeTracking)
 
 Yanyu Xu <sup>*</sup>, Shenghua Gao <sup>*</sup>, **Junru Wu<sup>*</sup>**, Nianyi Li and Jingyi Yu, "Personalized Saliency and Its Prediction" IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018. 
 [[PDF]](https://ieeexplore.ieee.org/document/8444709/). <sup>*</sup>Equal contributions
 
 Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Universal Saliency: Personalized Saliency Prediction with Multi-task CNN” IEEE International Joint Conference on Artificial Intelligence (IJCAI), 2017. (**Best Student Paper Finalist**)
-[[PDF]](https://www.ijcai.org/proceedings/2017/0543.pdf) [[Github]](https://github.com/xuyanyu-shh/Personalized-Saliency)
+[[PDF]](https://www.ijcai.org/proceedings/2017/0543.pdf) [[Code]](https://github.com/xuyanyu-shh/Personalized-Saliency)
 
 ** Cartoon portrait credit to [Shuai Yang](https://williamyang1991.github.io/)
