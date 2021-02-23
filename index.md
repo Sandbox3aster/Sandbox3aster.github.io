@@ -39,6 +39,8 @@ My research interests lie in computer vision and machine learning, specifically 
 
 ### Preprints
 
+**Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Weak NAS Predictors Are All You Need" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Github]](https://github.com/VITA-Group/WeakNAS)
+
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
 Face Anti-spoofing" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
 
