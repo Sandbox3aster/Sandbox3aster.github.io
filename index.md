@@ -34,7 +34,7 @@ Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl
 My research interests lie in computer vision and machine learning, specifically in the following topics  
 (a) Efficient Neural Architecture Search  
 (b) Efficient Image/Video Deblurring, Denosing  
-(c) Neural Newtwork Compression/Acceleration, Energy efficient Neural Networks  
+(c) Neural Network Compression, Energy efficient Neural Networks  
 (d) Saliency Detecion in VR, Personalized Saliency Detecion  
 
 ### Preprints
