@@ -22,8 +22,8 @@ Mentor: [Dr. Xiyang Dai](https://sites.google.com/site/xiyangdai/), [Dr. Dongdon
 
 * NEC Labs America, Research Intern                                                May. 2019 - Aug. 2019  
 Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers), [Dr. Buyu Liu](https://sites.google.com/site/buyuliu911/home), [Dr. Manmohan Chandraker](http://www.nec-labs.com/~manu/)  
-(a) Research on Video Deblurring with Attention
-(b) Research on Face Anti-Spoofing with Attention
+(a) Research on Video Deblurring with Dual-level Attention  
+(b) Research on Face Anti-Spoofing with Uncertainty-Aware Attention
 
 * ByteDance AI Lab, Research Intern                                                        Mar. 2019 - May. 2019  
 Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/), [Dr. Jianchao Yang](https://scholar.google.com/citations?user=HWFvq_wAAAAJ&hl=en)  
