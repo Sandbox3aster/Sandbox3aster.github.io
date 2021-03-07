@@ -42,7 +42,7 @@ My research interests lie in computer vision and machine learning, specifically 
 **Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Weak NAS Predictors Are All You Need" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Code]](https://github.com/VITA-Group/WeakNAS)
 
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
-Face Anti-spoofing" Arxiv Preprint, 2020. [[Code]](https://arxiv.org/pdf/2011.14054.pdf)
+Face Anti-spoofing" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
 
 Sicheng Wang, Bihan Wen, **Junru Wu**, Dacheng Tao and Zhangyang Wang. "Segmentation-Aware Image Denoising without Knowing True Segmentation" Arxiv Preprint, 2019.
 [[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Code]](https://github.com/TAMU-VITA/USAID)
