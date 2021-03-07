@@ -16,7 +16,10 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 
 ### Work Experience
 
-* Microsoft Research, Research Intern                                                May. 2020 - Aug. 2020  
+* Google Research, Research Intern                                                May. 2021 - 
+Mentor: [Dr. Yi Liang]
+
+* Microsoft, Research Intern                                                May. 2020 - Aug. 2020  
 Mentor: [Dr. Xiyang Dai](https://sites.google.com/site/xiyangdai/), [Dr. Dongdong Chen](http://www.dongdongchen.bid/), [Dr. Lu Yuan](https://scholar.google.com/citations?user=k9TsUVsAAAAJ&hl=en)  
 (a) Research on Neural Architecture Search
 
