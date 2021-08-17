@@ -16,7 +16,7 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 
 ### Work Experience
 
-* Google, Research Intern                                              <div style="text-align: right"> Jun. 2021 - Now  </div>
+* Google, Research Intern<div style="text-align: right"> Jun. 2021 - Now  </div>
 Mentor: [Dr. Ethan Liang](https://www.linkedin.com/in/yi-liang-919aab36/), [Dr. Feng Han](), [Cong Yu](https://sites.google.com/site/congyu/home)  
 
 * Microsoft, Research Intern                                                                 May. 2020 - Aug. 2020  
