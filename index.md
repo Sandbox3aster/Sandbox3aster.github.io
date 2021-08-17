@@ -16,10 +16,10 @@ I'm a third year Ph.D Student in Computer Science at Texas A&M University, my ad
 
 ### Work Experience
 
-* Google, Research Intern       <div style="text-align: right"> Jun. 2021 - Now </div>
+* Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
 Mentor: [Dr. Ethan Liang](https://www.linkedin.com/in/yi-liang-919aab36/), [Dr. Feng Han](), [Cong Yu](https://sites.google.com/site/congyu/home)  
 
-* Microsoft, Research Intern                                                                 May. 2020 - Aug. 2020  
+* Microsoft, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May. 2020 - Aug. 2020  
 Mentor: [Dr. Xiyang Dai](https://sites.google.com/site/xiyangdai/), [Dr. Dongdong Chen](http://www.dongdongchen.bid/), [Yinpeng Chen](https://scholar.google.com/citations?user=V_VpLksAAAAJ&hl=en), [Mengchen Liu](https://scholar.google.com/citations?user=cOPQtYgAAAAJ&hl=en), [Dr. Lu Yuan](https://scholar.google.com/citations?user=k9TsUVsAAAAJ&hl=en)  
 (a) Research on Neural Architecture Search
 
