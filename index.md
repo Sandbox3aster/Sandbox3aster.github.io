@@ -42,7 +42,7 @@ My research interests lie in computer vision and machine learning, specifically 
 
 <!-- ### Preprints -->
 
-### Publication
+### Publications
 
 **Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Stronger NAS with Weaker Predictors" Neural Information Processing Systems (NeurIPS), 2021. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Code]](https://github.com/VITA-Group/WeakNAS)
 
