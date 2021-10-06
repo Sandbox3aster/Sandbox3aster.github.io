@@ -42,12 +42,12 @@ My research interests lie in computer vision and machine learning, specifically 
 
 <!-- ### Preprints -->
 
+### Publication
+
 **Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Stronger NAS with Weaker Predictors" Neural Information Processing Systems (NeurIPS), 2021. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Code]](https://github.com/VITA-Group/WeakNAS)
 
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
 Face Anti-spoofing" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
-
-<!-- ### Publication -->
 
 **Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang  Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020. [[PDF]](https://arxiv.org/pdf/1912.03445.pdf)
 
