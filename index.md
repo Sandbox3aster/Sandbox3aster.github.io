@@ -18,6 +18,7 @@ I'm a fourth year Ph.D Student in Computer Science at Texas A&M University, my a
 
 * Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
 Mentor: [Dr. Ethan Liang](https://www.linkedin.com/in/yi-liang-919aab36/), [Dr. Feng Han](), [Dr. Cong Yu](https://sites.google.com/site/congyu/home)  
+(a) Research on Multimodal Pre-training
 
 * Microsoft, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May. 2020 - Aug. 2020  
 Mentor: [Dr. Xiyang Dai](https://sites.google.com/site/xiyangdai/), [Dr. Dongdong Chen](http://www.dongdongchen.bid/), [Yinpeng Chen](https://scholar.google.com/citations?user=V_VpLksAAAAJ&hl=en), [Mengchen Liu](https://scholar.google.com/citations?user=cOPQtYgAAAAJ&hl=en), [Dr. Lu Yuan](https://scholar.google.com/citations?user=k9TsUVsAAAAJ&hl=en)  
@@ -45,6 +46,8 @@ My research interests lie in computer vision and machine learning, specifically 
 ### Publications
 
 **Junru Wu**, Xiyang Dai, Dongdong Chen, Yinpeng Chen, Mengchen Liu, Ye Yu, Zhangyang Wang, Zicheng Liu, Mei Chen, Lu Yuan. "Stronger NAS with Weaker Predictors" Neural Information Processing Systems (NeurIPS), 2021. [[PDF]](https://arxiv.org/pdf/2102.10490.pdf) [[Code]](https://github.com/VITA-Group/WeakNAS)
+
+Yifan Jiang, Xinyu Gong, **Junru Wu**, Humphrey Shi, Zhicheng Yan, Zhangyang Wang. "Auto-X3D: Ultra-Efficient Video Understanding via Finer-Grained Neural Architecture Search" Winter Conference on Applications of Computer Vision (WACV), 2022. [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Jiang_Auto-X3D_Ultra-Efficient_Video_Understanding_via_Finer-Grained_Neural_Architecture_Search_WACV_2022_paper.pdf)
 
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
 Face Anti-spoofing" Arxiv Preprint, 2020. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
