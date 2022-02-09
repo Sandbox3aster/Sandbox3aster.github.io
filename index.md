@@ -7,7 +7,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 **sandboxmaster@tamu.edu**
 
-[[Google Scholar]](https://scholar.google.com/citations?user=5wXwjysAAAAJ&hl=en) [[Linkedln]](https://www.linkedin.com/in/junru-wu/) [[CV]](https://www.dropbox.com/s/5ax9jxaeh0jdodv/Resume.pdf?raw=1)
+[[Google Scholar]](https://scholar.google.com/citations?user=5wXwjysAAAAJ&hl=en) [[Linkedln]](https://www.linkedin.com/in/junru-wu/) [[CV]](https://www.dropbox.com/s/a4mtc4w0wj6z4pw/Resume.pdf?raw=1)
 
 
 ### Brief Biography
