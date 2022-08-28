@@ -37,8 +37,8 @@ Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl
 
 My research interests lie in computer vision and machine learning, specifically in the following topics  
 
-**(a)Multimodal Learning** (Multimodal Pre-trainng, Multimodal Fusion) 
-**(b)Efficient ML** (Neural Architecture Search, Neural Network Compression) 
+**(a)Multimodal Learning** (Multimodal Pre-trainng, Multimodal Fusion)  
+**(b)Efficient ML** (Neural Architecture Search, Neural Network Compression)  
 **(c)Low-level Vision** (Efficient Image/Video Deblurring/Denoising)
 
 <!-- ### Preprints -->
