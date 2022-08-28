@@ -12,7 +12,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a fourth year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
+I'm a fifth year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
 ### Work Experience
 
@@ -36,10 +36,10 @@ Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl
 ### Research Interests
 
 My research interests lie in computer vision and machine learning, specifically in the following topics  
-(a) Efficient Neural Architecture Search  
-(b) Efficient Image/Video Deblurring, Denosing  
-(c) Neural Network Compression, Energy efficient Neural Networks  
-(d) Saliency Detecion in VR, Personalized Saliency Detecion  
+
+**(a)Multimodal Learning** (Multimodal Pre-trainng, Multimodal Fusion)\\
+**(b)Efficient ML** (Neural Architecture Search, Neural Network Compression)\\
+**(c)Low-level Vision** (Efficient Image/Video Deblurring/Denoising)
 
 <!-- ### Preprints -->
 
