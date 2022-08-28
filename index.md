@@ -25,7 +25,7 @@ My research interests lie in the intesection of computer vision and machine lear
 ### Work Experience
 
 * Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
-Mentor: [Dr. Feng Han](), [Dr. Tianqi Liu](https://scholar.google.com/citations?user=pUKhiMIAAAAJ&hl=en), [Dr. Frederick Liu](https://frederick0329.github.io/), [Dr. Jialu Liu](https://jialu.info/), [Dr. Hongkun Yu](https://www.linkedin.com/in/hongkun-yu-63572962/)
+Mentor: [Dr. Feng Han](), [Dr. Tianqi Liu](https://scholar.google.com/citations?user=pUKhiMIAAAAJ&hl=en), [Dr. Frederick Liu](https://frederick0329.github.io/), [Dr. Jialu Liu](https://jialu.info/), [Dr. Hongkun Yu](https://www.linkedin.com/in/hongkun-yu-63572962/)  
 (a) Implement a multi-modality News Understanding Framework in JAX  
 
 * Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
@@ -47,13 +47,13 @@ Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl
 
 ### Preprints
 
-Qiucheng Wu$<sup>*</sup>, Yifan Jiang<sup>*</sup>, **Junru Wu$<sup>*</sup>**, Kai Wang, Gong Zhang, Humphrey Shi, Zhangyang Wang, Shiyu Chang ``Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN
-", Under Review \emph{2022}.$^{*}$Equal contributions Arxiv Preprint. [[PDF]](https://arxiv.org/pdf/2204.12696.pdf)  
+Qiucheng Wu<sup>*</sup>, Yifan Jiang<sup>*</sup>, **Junru Wu$<sup>*</sup>**, Kai Wang, Gong Zhang, Humphrey Shi, Zhangyang Wang, Shiyu Chang ``Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN
+", Under Review 2022. [[PDF]](https://arxiv.org/pdf/2204.12696.pdf). <sup>*</sup>Equal contributions  
 
 **Junru Wu**, Yi Liang, Feng Han, Hassan Akbari, Zhangyang Wang, Cong Yu "Enhancing and Scaling Cross-Modality Alignment for ContrastiveMultimodal Pre-Training via Gradient Harmonization", Under Review, 2022. [[PDF]]
 
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
-Face Anti-spoofing" Arxiv Preprint. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
+Face Anti-spoofing", Under Review, 2021. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
 
 ### Publications
 
