@@ -14,6 +14,14 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 I'm a fifth year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
+### Research Interests
+
+My research interests lie in the intesection of computer vision and machine learning, specifically in the following topics:  
+
+**(a) Multimodal Learning** (Multimodal Pre-trainng, Multimodal Fusion)  
+**(b) Efficient ML** (Neural Architecture Search, Neural Network Compression)  
+**(c) Low-level Vision** (Efficient Image/Video Deblurring/Denoising)
+
 ### Work Experience
 
 * Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
@@ -32,14 +40,6 @@ Mentor: [Dr. Xiang Yu](https://sites.google.com/site/xiangyurutgers), [Dr. Buyu 
 * ByteDance AI Lab, Research Intern                                                        Mar. 2019 - May. 2019  
 Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Dr. Linjie Yang](https://sites.google.com/site/linjieyang89/), [Dr. Jianchao Yang](https://scholar.google.com/citations?user=HWFvq_wAAAAJ&hl=en)  
 (a) Research on Video Human Segmentation
-
-### Research Interests
-
-My research interests lie in computer vision and machine learning, specifically in the following topics  
-
-**(a) Multimodal Learning** (Multimodal Pre-trainng, Multimodal Fusion)  
-**(b) Efficient ML** (Neural Architecture Search, Neural Network Compression)  
-**(c) Low-level Vision** (Efficient Image/Video Deblurring/Denoising)
 
 <!-- ### Preprints -->
 
