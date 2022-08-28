@@ -47,10 +47,10 @@ Mentor: [Dr. Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl
 
 ### Preprints
 
-Qiucheng Wu<sup>*</sup>, Yifan Jiang<sup>*</sup>, **Junru Wu$<sup>*</sup>**, Kai Wang, Gong Zhang, Humphrey Shi, Zhangyang Wang, Shiyu Chang ``Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN
+Qiucheng Wu<sup>*</sup>, Yifan Jiang<sup>*</sup>, **Junru Wu<sup>*</sup>**, Kai Wang, Gong Zhang, Humphrey Shi, Zhangyang Wang, Shiyu Chang ``Grasping the Arrow of Time from the Singularity: Decoding Micromotion in Low-dimensional Latent Spaces from StyleGAN
 ", Under Review 2022. [[PDF]](https://arxiv.org/pdf/2204.12696.pdf). <sup>*</sup>Equal contributions  
 
-**Junru Wu**, Yi Liang, Feng Han, Hassan Akbari, Zhangyang Wang, Cong Yu "Enhancing and Scaling Cross-Modality Alignment for ContrastiveMultimodal Pre-Training via Gradient Harmonization", Under Review, 2022. [[PDF]]
+**Junru Wu**, Yi Liang, Feng Han, Hassan Akbari, Zhangyang Wang, Cong Yu "Enhancing and Scaling Cross-Modality Alignment for ContrastiveMultimodal Pre-Training via Gradient Harmonization", Under Review, 2022. [[PDF]]()
 
 **Junru Wu**, Xiang Yu, Buyu Liu, Manmohan Chandraker, Zhangyang  Wang. "Uncertainty-Aware Physically-Guided Proxy Tasks for Unseen Domain
 Face Anti-spoofing", Under Review, 2021. [[PDF]](https://arxiv.org/pdf/2011.14054.pdf)
