@@ -12,7 +12,7 @@ Dept. of Computer Science & Enigneering, Texas A&M University
 
 ### Brief Biography
 
-I'm a fifth year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
+I'm a final year Ph.D Student in Computer Science at Texas A&M University, my advisor is [Dr. Zhangyang Wang](http://www.atlaswang.com/). From 2016 - 2017, I was a research assistant working with [Dr. Shenghua Gao](http://sist.shanghaitech.edu.cn/faculty/gaoshh/) at [Visual Computing Lab](http://sist.shanghaitech.edu.cn/), ShanghaiTech University. I received my B.Eng degree in Electrical Engineering from Tongji University, Shanghai in 2016.
 
 ### Research Interests
 
@@ -24,11 +24,11 @@ My research interests lie in the intesection of computer vision and machine lear
 
 ### Work Experience
 
-* Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
+* Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2022 - Now  
 Mentor: [Dr. Feng Han](https://sandbox3aster.github.io/), [Dr. Tianqi Liu](https://scholar.google.com/citations?user=pUKhiMIAAAAJ&hl=en), [Dr. Frederick Liu](https://frederick0329.github.io/), [Dr. Hongkun Yu](https://www.linkedin.com/in/hongkun-yu-63572962/), [Dr. Jialu Liu](https://jialu.info/)  
 (a) Implement a multi-modality News Understanding Framework in JAX  
 
-* Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Now  
+* Google, Research Intern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jun. 2021 - Dec. 2021  
 Mentor: [Dr. Ethan Liang](https://www.linkedin.com/in/yi-liang-919aab36/), [Dr. Feng Han](https://sandbox3aster.github.io/), [Dr. Cong Yu](https://sites.google.com/site/congyu/home)  
 (a) Research on Multimodal Pre-training in the wild  
 
