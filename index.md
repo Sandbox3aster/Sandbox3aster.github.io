@@ -18,7 +18,7 @@ I'm a final year Ph.D Student in Computer Science at Texas A&M University, my ad
 
 My research interests lie in the intesection of computer vision and machine learning, specifically in the following topics:  
 
-**(a) Multimodal Learning** (Multimodal Pre-trainng, Multimodal Fusion)  
+**(a) Multimodal Learning** (Multimodal Pre-training, Multimodal Fusion)  
 **(b) Efficient ML** (Neural Architecture Search, Neural Network Compression)  
 **(c) Low-level Vision** (Efficient Image/Video Deblurring/Denoising)
 
