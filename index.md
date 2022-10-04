@@ -61,7 +61,7 @@ Face Anti-spoofing", Under Review, 2021. [[PDF]](https://arxiv.org/pdf/2011.1405
 
 Yifan Jiang, Xinyu Gong, **Junru Wu**, Humphrey Shi, Zhicheng Yan, Zhangyang Wang. "Auto-X3D: Ultra-Efficient Video Understanding via Finer-Grained Neural Architecture Search" Winter Conference on Applications of Computer Vision (WACV), 2022. [[PDF]](https://openaccess.thecvf.com/content/WACV2022/papers/Jiang_Auto-X3D_Ultra-Efficient_Video_Understanding_via_Finer-Grained_Neural_Architecture_Search_WACV_2022_paper.pdf)
 
-**Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang  Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020. [[PDF]](https://arxiv.org/pdf/1912.03445.pdf)
+**Junru Wu**, Xiang Yu, Ding Liu, Manmohan Chandraker, Zhangyang Wang. "DAVID: Dual-Attentional Video Deblurring" Winter Conference on Applications of Computer Vision (WACV), 2020. [[PDF]](https://arxiv.org/pdf/1912.03445.pdf)
 
 Orest Kupyn, Tetiana Martyniuk, **Junru Wu**, Zhangyang Wang. "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" The International Conference on Computer Vision (ICCV), 2019.
 [[PDF]](https://arxiv.org/pdf/1908.03826.pdf) [[Code]](https://github.com/TAMU-VITA/DeblurGANv2)
@@ -85,3 +85,118 @@ Yanyu Xu, Nianyi Li, **Junru Wu**, Jingyi Yu, and Shenghua Gao. “Beyond Univer
 [[PDF]](https://www.ijcai.org/proceedings/2017/0543.pdf) [[Code]](https://github.com/xuyanyu-shh/Personalized-Saliency)
 
 ** Cartoon portrait credit to [Shuai Yang](https://williamyang1991.github.io/)
+
+
+
+<div class="row">
+    <div class="col-md-3">
+        <img class="img-fluid img-rounded" src="projects/comp_nerf_dy/combined.gif" style="border:1px solid black" alt="">
+    </div>
+    <div class="col-md-9">
+    <a href="https://https://sandbox3aster.github.io/" target="_blank"></b>Junru Wu</b></a>,
+    <a href="https://https://sandbox3aster.github.io/" target="_blank">Yi Liang</a>,
+    <a href="https://https://sandbox3aster.github.io/" target="_blank">Feng Han</a>,
+    <a href="https://https://sandbox3aster.github.io/" target="_blank">Hassan Akbari</a>,
+    <a href="https://https://sandbox3aster.github.io/" target="_blank">Zhangyang Wang</a>, and
+    <a href="https://https://sandbox3aster.github.io/" target="_blank">Cong Yu</a><br>
+    <b><font color="black">Enhancing and Scaling Cross-Modality Alignment for Contrastive Multimodal Pre-Training via Gradient Harmonization</font></b><br>
+    <b><a href="https://nips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a></b>,
+    <a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[Project]</small></a>
+    <a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[Paper]</small></a>
+    <a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[BibTex]</small></a><br>
+    </div>
+</div><hr>
+
+
+
+	<script id="pubs_selected" language="text">
+        <div class="row">
+			<div class="col-md-3">
+				<img class="img-fluid img-rounded" src="projects/neurips22_mmgh/pipeline.png" style="border:0px solid black" alt="">
+			</div>
+			<div class="col-md-9">
+				<a href="https://https://sandbox3aster.github.io/" target="_blank"></b>Junru Wu</b></a>,
+				<a href="https://https://sandbox3aster.github.io/" target="_blank">Yi Liang</a>,
+				<a href="https://https://sandbox3aster.github.io/" target="_blank">Feng Han</a>,
+				<a href="https://https://sandbox3aster.github.io/" target="_blank">Hassan Akbari</a>,
+				<a href="https://https://sandbox3aster.github.io/" target="_blank">Zhangyang Wang</a>,
+				<a href="https://https://sandbox3aster.github.io/" target="_blank">Cong Yu</a>, and
+				<br>
+				<b><font color="black">Enhancing and Scaling Cross-Modality Alignment for Contrastive Multimodal Pre-Training via Gradient Harmonization</font></b>
+				<br>
+				<b><a href="https://nips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a></b>,
+				<a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[Project]</small></a>
+				<a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[Paper]</small></a>
+				<a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[BibTex]</small></a><br>
+			</div>
+		</div><hr>
+	</script>
+
+
+   			<div class="row">
+				<div class="col-md-3">
+					<img class="img-fluid img-rounded" src="projects/neurips22_mmgh/pipeline.png" style="border:0px solid black" alt=""></img>
+				</div>
+				<div class="col-md-9">
+					<a href="https://https://sandbox3aster.github.io/" target="_blank"></b>Junru Wu</b></a>,
+					<a href="https://https://sandbox3aster.github.io/" target="_blank">Yi Liang</a>,
+					<a href="https://https://sandbox3aster.github.io/" target="_blank">Feng Han</a>,
+					<a href="https://https://sandbox3aster.github.io/" target="_blank">Hassan Akbari</a>,
+					<a href="https://https://sandbox3aster.github.io/" target="_blank">Zhangyang Wang</a>,
+					<a href="https://https://sandbox3aster.github.io/" target="_blank">Cong Yu</a>, and
+					<br>
+					<b><font color="black">Enhancing and Scaling Cross-Modality Alignment for Contrastive Multimodal Pre-Training via Gradient Harmonization</font></b>,
+					<br>
+					<b><a href="https://nips.cc/Conferences/2022" target="_blank">NeurIPS 2022</a></b>,
+					<a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[Project]</small></a>
+					<a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[Paper]</small></a>
+					<a href="https://https://sandbox3aster.github.io/" target="_blank"> <small>[BibTex]</small></a>
+					<br>
+				</div>
+			</div>  
+
+
+	<!-- <div class="sec-wrapper exp-wrapper" id="exp">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col col-wrapper">
+					<div class="section-title">Experience</div>
+				</div>
+			</div>
+			<div class="row align-items-center section-item">
+				<div class="col-sm-9 col-lg-12 col-wrapper">
+					<div class="row">
+						<div class="figure">
+							<a href="https://research.google/"><img src="./assets/google.png"
+									style="height:50%; width:13%"></a>
+						</div>
+						<div class="col-lg-3 col-wrapper">
+							<div class="title">
+								<a href="https://research.google/">Google Research</a>
+							</div>
+							<div class="info">
+								<div>Research Intern with Gcam team</div>
+								<div>Worked with:
+									<a href="https://people.csail.mit.edu/tfxue/">Tianfan Xue</a>,
+									<a href="https://bartwronski.com/about/">Bartlomiej Wronski</a>,
+									<a href="https://bmild.github.io/">Ben Mildenhall</a>,
+									<a href="https://scholar.google.co.uk/citations?user=dNCrPskAAAAJ&hl=en">Peter
+										Hedman</a>,
+									<a href="https://jonbarron.info/">Jonathan T. Barron</a>
+								</div>
+								<div class="location">Mountain View, CA, USA</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-wrapper">
+							<time>May. 2021 - May. 2022</time>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> -->
+	<!-- Experience -->
+
+
+
+
