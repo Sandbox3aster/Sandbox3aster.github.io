@@ -1,28 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
-
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111713571-1"></script>
-	<script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-  		gtag('config', 'UA-111713571-1');
-	</script>
-
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-	<!-- Bootstrap core CSS -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-	<!-- Custom styles for this template -->
-	<link href="files/jumbotron.css" rel="stylesheet">
-	<script src="js/main.js"></script>
-  <script src="js/scroll.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization</title>
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <link rel="stylesheet" href="temp.css">
+  <link href="https://www.google.com/favicon.ico" rel="icon">
 </head>
 
-<title>Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization</title>
+<body data-gr-c-s-loaded="true" data-new-gr-c-s-check-loaded="14.1043.0" data-gr-ext-installed="">
 
-</html>
+<div class="container">
+  <table border="0" align="center">
+    <tbody><tr>
+      <td width="1500" height="200" align="center" valign="middle">
+      <span class="title"><h1>Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization</h1></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><h5>
+            <a href="https://sandbox3aster.github.io/" target="_blank">Junru Wu<sup>1, 2</sup></a>,
+            <a href="" target="_blank">Yi Liang<sup>2</sup></a>,
+            <a href="" target="_blank">Feng Han<sup>2</sup></a>,
+<!--            <br>-->
+            <a href="https://hassanakbari.com/" target="_blank">Hassan Akbari<sup>2</sup></a>,
+            <a href="https://vita-group.github.io/" target="_blank">Zhangyang Wang<sup>3</sup></a>,
+            <a href="https://sites.google.com/site/congyu/home?pli=1" target="_blank">Cong Yu<sup>4</sup></a>,
+        </h5></td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><h4> <sup>1</sup> Texas A&M University &nbsp; <sup>2</sup> Google Research, &nbsp; <sup>3</sup> UT Austin, &nbsp;  <sup>4</sup> Celonis Inc. / CeloAI </h4> </td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center"><h5> <a href="https://arxiv.org/abs/2211.02077" target="_blank">[Paper]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h5></td>
+    </tr>
+  </tbody></table>
+  <br>
+  <p><img src="pipeline.png" style="margin:auto;max-width:100%" align="middle"></p>
+  <div class="text" style="text-align: left;">
+      <h2>Abstract</h2>
+      <p>Self-supervised pre-training recently demonstrates success on large-scale multimodal data, and state-of-the-art contrastive learning methods often enforce the feature consistency from cross-modality inputs, such as video/audio or video/text pairs. Despite its convenience to formulate and leverage in practice, such cross-modality alignment (CMA) is only a weak and noisy supervision, since two modalities can be semantically misaligned even they are temporally aligned. For example, even in the (often adopted) instructional videos, a speaker can sometimes refer to something that is not visually present in the current frame; and the semantic misalignment would only be more unpredictable for the raw videos collected from unconstrained internet sources. We conjecture that might cause conflicts and biases among modalities, and may hence prohibit CMA from scaling up to training with larger and more heterogeneous data. This paper first verifies our conjecture by observing that, even in the latest VATT pre-training using only narrated videos, there exist strong gradient conflicts between different CMA losses within the same sample triplet (video, audio, text), indicating them as the noisy source of supervision. We then propose to harmonize such gradients during pre-training, via two techniques: (i) cross-modality gradient realignment : modifying different CMA loss gradients for one sample triplet, so that their gradient directions are in more agreement; and (ii) gradient-based curriculum learning : leveraging the gradient conflict information on an indicator of sample noisiness, to develop a curriculum learning strategy to prioritize training with less noisy sample triplets. Applying those gradient harmonization techniques to pre-training VATT on the HowTo100M dataset, we consistently improve its performance on different downstream tasks. Moreover, we are able to scale VATT pre-training to more complicated non-narrative Youtube8M dataset to further improve the state-of-the-arts.</p>
+  </div>
+</div>
+
+<br>
+
+</p></div></div><br>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
